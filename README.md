@@ -3,7 +3,9 @@
 We were tasked with cleaning up this fictional website's HTML & CSS to help make the page more accessible as a learning exercise.
 
 Collaborators: 
+
 Chris Zavala https://github.com/ChrisZavala
+
 Karen Peazzoni https://github.com/kpeazzoni
 
 ## User Story
